@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋🏽, I'm Neil</h1>
 <h3 align="center">A passionate full-stack developer based in London</h3>
 
-- 🔭 I’m currently working on [theoa](https://github.com/neilgoodridge/the-oa), an Online Activism platform. Visit <a href="http://www.theoa.org" target="_blank"> The OA.</a>
+- 🔭 I’m currently working on [theoa](https://github.com/neilgoodridge/the-oa), an Online Activism platform. Check out <a href="http://www.theoa.org" target="_blank"> The OA here.</a>
 
 - 🌱 I’m currently learning **React**!
 
-- 👨‍💻 All of my projects and more will soon be available at <a href="http://www.www.neilgoodridge.com" target="_blank"> neilgoodridge.com</a>
+- 👨‍💻 All of my projects and more will soon be available at <a href="http://www.neilgoodridge.com" target="_blank"> neilgoodridge.com</a>
 
 - 📫 You can reach me at **neilrgoodridge@gmail.com**
 

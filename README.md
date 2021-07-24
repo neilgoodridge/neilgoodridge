@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects and more will soon be available at <a href="http://www.neilgoodridge.com" target="_blank"> neilgoodridge.com</a>
 
-- 📫 You can reach me at **neilrgoodridge@gmail.com**
+- 📫 You can reach me at **neilrgoodridge@gmail.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

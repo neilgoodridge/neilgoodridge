@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **React**!
 
-- 👨‍💻 All of my projects and more will soon be available at <a href="http://www.neilgoodridge.com" target="_blank"> neilgoodridge.com</a>
+- 👨‍💻 All of my projects and more will soon be available at <a href="http://www.neilgoodridge.dev" target="_blank"> neilgoodridge.dev</a>
 
-- 📫 You can reach me at **neilrgoodridge@gmail.dev**
+- 📫 You can reach me at **neilrgoodridge@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

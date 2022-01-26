@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋🏽, I'm Neil</h1>
-<h3 align="center">A passionate full-stack developer based in London</h3>
+<h3 align="center">A budding full-stack developer based in London</h3>
 
-- 🔭 I’m currently working on [theoa](https://github.com/neilgoodridge/the-oa), an Online Activism platform. Check out <a href="http://www.theoa.org" target="_blank"> The OA here.</a>
+- 🔭 I’m currently working on [avik-wwe](https://github.com/neilgoodridge/aik-wwe), small website for a friend to upload some homemade dioramas.
 
-- 🌱 I’m currently learning **React**!
+- 🌱 I’m also learning **React**!
 
-- 👨‍💻 All of my projects and more will soon be available at <a href="http://www.neilgoodridge.dev" target="_blank"> neilgoodridge.dev</a>
+- 👨‍💻 Find out more at <a href="http://www.neilgoodridge.dev" target="_blank"> neilgoodridge.dev</a>
 
-- 📫 You can reach me at **neilrgoodridge@gmail.com**
+- 📫 You can reach me at **neilrgoodridge@gmail.com** or via my website above. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

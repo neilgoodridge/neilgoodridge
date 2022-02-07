@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏽, I'm Neil</h1>
 <h3 align="center">A budding full-stack developer based in London</h3>
 
-- 🔭 I’m currently working on [avik-wwe](https://github.com/neilgoodridge/aik-wwe), small website for a friend to upload some homemade dioramas.
+- 🔭 I’m currently working on [avik-wwe](https://github.com/neilgoodridge/avik-wwe), small website for a friend to upload some homemade dioramas.
 
 - 🌱 I’m also learning **React**!
 

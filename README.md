@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋🏽, I'm Neil</h1>
-<h3 align="center">A budding full-stack developer based in London</h3>
+<h3 align="center">A junior DevOps engineer based in London</h3>
 
 - 🔭 I’m currently working on an [F1 database](https://neils-f1-database.herokuapp.com/). A small personal website to collate historic F1 data via use of an API.
 
-- 🌱 I’m also learning **React**!
+- 🌱 I’m also learning **GCP**!
 
 - 👨‍💻 Find out more at <a href="http://www.neilgoodridge.dev" target="_blank"> neilgoodridge.dev</a>
 

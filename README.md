@@ -3,13 +3,13 @@
 
 <div align="center">
     <br>
-  🌱 I’m currently learning **Google Cloud Platform**! 
+  🌱 I’m currently learning <strong>Google Cloud Platform</strong> ☁️ 
     <br>
     <br>
   👨‍💻 Find out more at <a href="http://www.neilgoodridge.dev" target="_blank"> neilgoodridge.dev</a>
     <br>
     <br>
-  📫 You can also reach me at **neilrgoodridge@gmail.com**. 
+  📫 You can also reach me at <strong>neilrgoodridge@gmail.com</strong>. 
 </div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">

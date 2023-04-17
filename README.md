@@ -18,7 +18,9 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="bootstrap" width="40" height="40"/> 
+  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="python" width="40" height="40"/> 
+  </a>
+  <a href="[https://www.python.org/](https://flask.palletsprojects.com/en/2.2.x/)" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/pocoo_flask/images/5edfb8bf-3da1-455e-98db-91a7b0a955b1.svg" alt="flask" width="40" height="40"/> 
   </a>
   <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> 
   </a> 
